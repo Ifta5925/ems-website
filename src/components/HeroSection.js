@@ -8,22 +8,23 @@ function HeroSection() {
     <div className="hero-container">
       <h1>Event Management System</h1>
       <p>Creating smile in every face.</p>
-      <div className="hero-btns">
+      {/* <div className="hero-btns">
         <Button
           className="btns"
           buttonStyle="btn--outline"
           buttonSize="btn--large"
+          path='./sign-in'
         >
-          Getting Started
+          Sign In
         </Button>
         <Button
           className="btns"
           buttonStyle="btn--primary"
           buttonSize="btn--large"
         >
-          About Us <i className="fa fa-play-circle" aria-hidden="true"></i>
+          Sign Up
         </Button>
-      </div>
+      </div> */}
     </div>
   );
 }

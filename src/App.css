@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('/public/photos/5.jpeg');
+  background-image: url('/public/photos/1.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@
 }
 
 .sign-up {
-  background-image: url('/public/photos/5.jpeg');
+  background-image: url('/photos/5.jpeg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -43,7 +43,7 @@
   font-size: 100px;
 }
 .sign-in {
-  /* background-image: url('/images/img-8.jpg'); */
+  background-image: url('/photos/1.jpg');
   background-position: 0;
   background-size: cover;
   background-repeat: no-repeat;

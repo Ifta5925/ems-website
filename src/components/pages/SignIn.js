@@ -10,14 +10,14 @@ function SignIn() {
         <input type="email" placeholder="Email" />
       </div>
 
-      <div class="textbox">
-        <i class="fas fa-lock"></i>
+      <div className="textbox">
+        <i className="fas fa-lock"></i>
         <input type="password" placeholder="Password" />
       </div>
 
-      <input type="button" class="btn" value="Sign in" />
+      <input type="button" className="btn" value="Sign in" />
       <div>
-      <input type="button" class="btn" value="Forget Password?" />
+      <input type="button" className="btn" value="Forget Password?" />
       </div>
     </div>
   );

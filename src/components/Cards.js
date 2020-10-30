@@ -13,13 +13,13 @@ function Cards() {
               src="photos/1.jpg"
               text="Wedding Ceremony"
               label="Wedding"
-              path="./services"
+              path="/"
             />
             <CardItem
               src="photos/3.jpg"
               text="Birthday Ceremony"
               label="Birthday"
-              path="./services"
+              path="/"
             />
           </ul>
           <ul className="cards__items">
@@ -27,19 +27,19 @@ function Cards() {
               src="photos/4.jpg"
               text="Theme Parties"
               label="Party"
-              path="./services"
+              path="/"
             />
             <CardItem
               src="photos/1.jpg"
               text="Wedding Anniversary"
               label="Anniversary"
-              path="./services"
+              path="/"
             />
             <CardItem
               src="photos/2.jpg"
               text="Get together"
               label="Re-Union"
-              path="./services"
+              path="/"
             />
           </ul>
           <ul className="cards__items">
@@ -47,13 +47,13 @@ function Cards() {
               src="photos/3.jpg"
               text="Family Events"
               label="Family Meeting"
-              path="./services"
+              path="/"
             />
             <CardItem
               src="photos/4.jpg"
               text="Picnic"
               label="Picnic"
-              path="./services"
+              path="/"
             />
           </ul>
         </div>
