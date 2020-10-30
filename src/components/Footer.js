@@ -9,6 +9,7 @@ function Footer() {
       <section className="footer-subscription">
         <p className="footer-subscription-heading">Join With Us</p>
         <p className="footer-subscription-text">Creating Smile</p>
+        <div className='input-areas'>
         <form>
           <input
             type="email"
@@ -18,6 +19,7 @@ function Footer() {
           />
           <Button buttonStyle="btn--online">Submit</Button>
         </form>
+        </div>
       </section>
       <div className="footer-links">
         <div className="footer-link-wrapper">
